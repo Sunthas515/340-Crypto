@@ -11,7 +11,7 @@
 - Message Authentication Codes
 - Proofs of Work
 ---
-## Assignment 3
+## Assignment 3 (90%)
 - Number Theory
 - RSA Encryption
 - Digital Signatures
